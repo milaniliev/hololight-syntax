@@ -1,0 +1,22 @@
+{
+    "name": "hololight-theme",
+    "displayName": "hololight-theme",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "milaniliev",
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Hololight",
+                "uiTheme": "vs",
+                "path": "./themes/Hololight-color-theme.json"
+            }
+        ]
+    }
+}
