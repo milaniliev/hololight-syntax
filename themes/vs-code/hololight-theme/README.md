@@ -2,8 +2,7 @@
 
 Hololight is an all-light UI Theme. 
 
-For the code elements, it uses this: 
-
-![Color Palette](palette.png "c47f00 2277af 476800 fafffd d12900")
+For the code elements, it uses deep primary colors on a light background:
+![Palette](palette.png)
 
 I also like the Iosevka customizable programming font: [Iosevka](https://github.com/be5invis/Iosevka)
