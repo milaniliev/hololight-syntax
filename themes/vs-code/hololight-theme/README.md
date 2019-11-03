@@ -1,13 +1,9 @@
-# README
-## This is the README for your extension "hololight-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Hololight VS Code Theme
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+Hololight is an all-light UI Theme. 
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+For the code elements, it uses this: 
 
-**Enjoy!**
+![Color Palette](palette.png "c47f00 2277af 476800 fafffd d12900")
+
+I also like the Iosevka customizable programming font: [Iosevka](https://github.com/be5invis/Iosevka)
