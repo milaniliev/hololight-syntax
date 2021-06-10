@@ -1,0 +1,22 @@
+{
+    "name": "Hololight",
+    "background": "#fafafa",
+    "selectionBackground": "#e5e5e6",
+    "black": "#fafafa",
+    "blue": "#0184bc",
+    "brightBlack": "#a0a1a7",
+    "brightBlue": "#696c77",
+    "brightCyan": "#986801",
+    "brightGreen": "#f0f0f1",
+    "brightPurple": "#202227",
+    "brightRed": "#d75f00",
+    "brightWhite": "#090a0b",
+    "brightYellow": "#e5e5e6",
+    "cyan": "#0184bc",
+    "foreground": "#383a42",
+    "green": "#5da720",
+    "purple": "#a626a4",
+    "red": "#ca1e12",
+    "white": "#383a42",
+    "yellow": "#c18401"
+}
