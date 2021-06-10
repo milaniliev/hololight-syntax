@@ -1,25 +1,47 @@
 {
   "workbench.startupEditor": "newUntitledFile",
+  "extensions.ignoreRecommendations": true,
   "editor.tabSize": 2,
-  "window.restoreWindows": "all",
-  "window.titleBarStyle": "native",
-  "workbench.colorTheme": "Hololight",
-  "workbench.iconTheme": "vs-minimal",
-  "workbench.statusBar.feedback.visible": false,
-  "workbench.tips.enabled": false,
-  "editor.minimap.enabled": false,
-  "gitlens.codeLens.enabled": false,
-  "gitlens.codeLens.recentChange.enabled": false,
-  "gitlens.currentLine.enabled": false,
-  "gitlens.mode.statusBar.enabled": false,
-  "gitlens.statusBar.enabled": false,
-  "window.openFoldersInNewWindow": "on",
-  "editor.fontFamily": "'Iosevka Custom', Inconsolata, Menlo, Consolas, 'DejaVu Sans Mono', monospace",
-  "editor.fontWeight": "500",
-  "editor.fontLigatures": true,
-  "editor.renderLineHighlight": "none",
+  "files.autoSave": "off",
+  "workbench.iconTheme": "Monokai Pro Icons",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "java.configuration.checkProjectSettingsExclusions": false,
   "git.enableSmartCommit": true,
   "git.confirmSync": false,
   "git.autofetch": true,
-  "window.zoomLevel": 0
+  "typescript.updateImportsOnFileMove.enabled": "never",
+  "editor.minimap.enabled": false,
+  "terminal.integrated.scrollback": 100000,
+  "diffEditor.maxComputationTime": 0,
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "terminal.integrated.mouseWheelScrollSensitivity": 0.2,
+  "debug.allowBreakpointsEverywhere": true,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.fontFamily": "Iosevka Custom",
+  "terminal.integrated.fontFamily": "Iosevka Custom",
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "explorer.decorations.colors": false,
+  "workbench.editor.tabSizing": "shrink",
+  "workbench.editor.decorations.badges": false,
+  "workbench.editor.decorations.colors": false,
+  "git.decorations.enabled": false,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "terminal.integrated.profiles.windows": {
+      "PowerShell": {
+          "source": "PowerShell",
+          "icon": "terminal-powershell",
+          "args": ["-NoLogo"]
+      }
+  },
+  "workbench.editor.enablePreview": false,
+  "terminal.integrated.tabs.enabled": true,
+  "workbench.editorAssociations": [
+      {
+          "viewType": "default",
+          "filenamePattern": "*.html"
+      }
+  ],
+  "workbench.colorTheme": "Hololight",
+  "editor.fontWeight": 600
 }
